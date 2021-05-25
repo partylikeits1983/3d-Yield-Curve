@@ -1,8 +1,9 @@
-# 3d-Yield-Curve
+## 3d-Yield-Curve
 
 
+##Display treasury yields as a 3d yield curve in a browser using Javascript 
 
-Display treasury yields as a 3d yield curve in a browser using Javascript 
+----
 
 This is a simple way to display treasury yield data as a 3d yield curve using [Plotly.js](https://plotly.com/javascript/3d-surface-plots/) and [JSON-SERVER](https://github.com/typicode/json-server).
 
