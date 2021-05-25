@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img src="/doc/3dcurve.png">
+   <img src="/doc/3dchart.png">
 </p>
 
 
