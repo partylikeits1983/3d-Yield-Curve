@@ -1,7 +1,7 @@
 ## 3d-Yield-Curve
 
 
-##Display treasury yields as a 3d yield curve in a browser using Javascript 
+Display treasury yields as a 3d yield curve in a browser using Javascript 
 
 ----
 
